@@ -5,6 +5,7 @@ export function buildDevServer(options: BuildOptions): DevServerConfiguration {
   return {
     port: options.port,
     historyApiFallback: true,
+    hot: true,
     open: {
       app: {
         name: 'Google Chrome',
