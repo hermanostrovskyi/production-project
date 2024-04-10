@@ -1,5 +1,9 @@
 {
   "test": "First example",
   "language": "English",
-  "main": "Start page"
+  "main": "Start page",
+  "loading": "...loading",
+  "toggle": "Toggle",
+  "mainPage": "Main",
+  "aboutPage": "About us"
 }

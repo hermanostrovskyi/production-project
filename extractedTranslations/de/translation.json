@@ -1,6 +1,10 @@
 {
   "about": "about",
+  "aboutPage": "",
   "language": "language",
+  "loading": "",
   "main": "main",
-  "rest": "rest"
+  "mainPage": "",
+  "rest": "rest",
+  "toggle": ""
 }

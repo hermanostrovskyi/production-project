@@ -1,5 +1,9 @@
 {
   "test": "Erstes Beispiel",
   "language": "Deutch",
-  "main": "Startseite"
+  "main": "Startseite",
+  "loading": "...loading",
+  "toggle": "Toggle",
+  "mainPage": "Startseite",
+  "aboutPage": "Über uns"
 }
