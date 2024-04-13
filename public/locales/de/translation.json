@@ -5,5 +5,9 @@
   "loading": "...loading",
   "toggle": "Toggle",
   "mainPage": "Startseite",
-  "aboutPage": "Über uns"
+  "aboutPage": "Über uns",
+  "pageNotFound": "Page not found",
+  "pageError": "Unerwartete Fehler",
+  "reloadPage": "Seite neu laden",
+  "throwError": "throwError"
 }

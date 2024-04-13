@@ -5,6 +5,10 @@
   "loading": "",
   "main": "main",
   "mainPage": "",
+  "pageError": "",
+  "pageNotFound": "",
+  "reloadPage": "",
   "rest": "rest",
+  "throwError": "",
   "toggle": ""
 }
