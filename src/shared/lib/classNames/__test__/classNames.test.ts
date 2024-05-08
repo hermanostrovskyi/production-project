@@ -6,7 +6,7 @@ describe('classNames', () => {
     });
 
     it('with first param and array of params', () => {
-        const expected = 'someClass test';
+        const expected = 'someClass testTranslations';
         expect(classNames('someClass', {}, ['test'])).toBe(expected);
     });
 
@@ -25,7 +25,7 @@ describe('classNames', () => {
     });
 
     it('with all options', () => {
-        const expected = 'someClass cls1 cls3 test';
+        const expected = 'someClass cls1 cls3 testTranslations';
 
         expect(classNames('someClass', { cls1: true, cls2: false, cls3: true }, ['test']))
             .toBe(expected);
